@@ -22,10 +22,5 @@ Java is a versatile, platform-independent programming language widely used in en
 - [x] Multithreading and Concurrency
 
 ## 🛠️ Projects & Exercises
-As I progress, I will be working on the following:
-- ✅ Basic Banking System
-- ✅ Simple File Handling System
-- ✅ Data Structures Implementation (Work in Progress)
-
-Happy coding! 😊
-
+- ✅ Data Structures and Algorithms
+- ✅ Concurrency 
